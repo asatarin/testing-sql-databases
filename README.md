@@ -3,6 +3,7 @@
 ## Query Execution
 * [Testing query execution engines with mutations](https://dl.acm.org/doi/pdf/10.1145/3395032.3395322) 
 * [SparkFuzz: searching correctness regressions in modern query engines](https://dl.acm.org/doi/abs/10.1145/3395032.3395327)
+* [Correctness and Performance of Apache Spark SQL with Bogdan Ghit and Nicolas Poggi (Databricks)](https://youtu.be/fddBOZxdUKI)
 * [Snowtrail: Testing with Production Queries on a Cloud Database](https://dl.acm.org/doi/10.1145/3209950.3209958)
 * [Verifying Transactional Consistency of MongoDB](https://arxiv.org/abs/2111.14946)
 * [SQLancer](https://github.com/sqlancer/sqlancer)
