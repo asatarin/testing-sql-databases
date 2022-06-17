@@ -10,6 +10,7 @@
 
 ## Query Optimization
 * [Deploying a Steered Query Optimizer in Production at Microsoft](https://dl.acm.org/doi/abs/10.1145/3514221.3526052)
+* [The Cascades Framework for Query Optimization at Microsoft (Nico Bruno + Cesar Galindo-Legaria)](https://youtu.be/pQe1LQJiXN0)
 
 
 ## Benchmarking
