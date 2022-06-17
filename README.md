@@ -20,4 +20,4 @@
 
 
 ## Conferences
-* [DB Test](https://dbtest-workshop.github.io/)
+* [Workshop on Testing Database Systems](https://dbtest-workshop.github.io/)
