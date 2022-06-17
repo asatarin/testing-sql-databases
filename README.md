@@ -4,9 +4,12 @@
 * [Testing query execution engines with mutations](https://dl.acm.org/doi/pdf/10.1145/3395032.3395322) 
 * [SparkFuzz: searching correctness regressions in modern query engines](https://dl.acm.org/doi/abs/10.1145/3395032.3395327)
 * [Snowtrail: Testing with Production Queries on a Cloud Database](https://dl.acm.org/doi/10.1145/3209950.3209958)
-* [Deploying a Steered Query Optimizer in Production at Microsoft](https://dl.acm.org/doi/abs/10.1145/3514221.3526052)
 * [Verifying Transactional Consistency of MongoDB](https://arxiv.org/abs/2111.14946)
 * [SQLancer](https://github.com/sqlancer/sqlancer)
+
+
+## Query Optimization
+* [Deploying a Steered Query Optimizer in Production at Microsoft](https://dl.acm.org/doi/abs/10.1145/3514221.3526052)
 
 
 ## Benchmarking
