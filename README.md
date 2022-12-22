@@ -41,7 +41,7 @@
 * [DuckDB Testing - Present and Future](https://youtu.be/BgC79Zt2fPs) by [Mark Raasveldt](https://twitter.com/mraasveldt) — comprehensive overview of testing of DuckDB for correctness, reliability and performance
 
 
-## Greenlum (Orca)
+## Greenplum (Orca)
 * [Automatic capture of minimal, portable, and executable bug repros using AMPERe](https://dl.acm.org/doi/10.1145/2304510.2304513) (DBTest 2012)
 * [Testing the accuracy of query optimizers](https://dl.acm.org/doi/10.1145/2304510.2304525) (DBTest 2012) aka TAQO
 * [Orca: a modular query optimizer architecture for big data](https://dl.acm.org/doi/10.1145/2588555.2595637) (SIGMOD 2014)
