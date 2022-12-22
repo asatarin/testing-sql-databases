@@ -4,6 +4,13 @@
 * [Massive Stochastic Testing of SQL](https://www.vldb.org/conf/1998/p618.pdf)
   * https://twitter.com/MarkCallaghanDB/status/1601313113982533633
 
+
+## Orca (Greenlum)
+* [Automatic capture of minimal, portable, and executable bug repros using AMPERe](https://dl.acm.org/doi/10.1145/2304510.2304513) (DBTest 2012)
+* [Testing the accuracy of query optimizers](https://dl.acm.org/doi/10.1145/2304510.2304525) (DBTest 2012) aka TAQO
+* [Orca: a modular query optimizer architecture for big data](https://dl.acm.org/doi/10.1145/2588555.2595637) (SIGMOD 2014)
+
+
 ## Query Execution
 * [Testing query execution engines with mutations](https://dl.acm.org/doi/pdf/10.1145/3395032.3395322) 
 * [Verifying Transactional Consistency of MongoDB](https://arxiv.org/abs/2111.14946)
