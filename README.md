@@ -46,6 +46,9 @@
 * [Testing the accuracy of query optimizers](https://dl.acm.org/doi/10.1145/2304510.2304525) (DBTest 2012) aka TAQO
 * [Orca: a modular query optimizer architecture for big data](https://dl.acm.org/doi/10.1145/2588555.2595637) (SIGMOD 2014)
 
+## Cockroach Labs (CockroachDB)
+* [Introducing Pebble: A RocksDB-inspired key-value store written in Go](https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/) 
+— Includes thorough discussion on what it takes to properly test a storage engine
 
 
 ### Other systems
