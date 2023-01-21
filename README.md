@@ -3,7 +3,7 @@
 ## TO READ 
 * [Massive Stochastic Testing of SQL](https://www.vldb.org/conf/1998/p618.pdf)
   * https://twitter.com/MarkCallaghanDB/status/1601313113982533633
-
+* [Testing Database Engines via Query Plan Guidance](http://jinshengba.me/assets/pdf/qpg_icse23.pdf)
 
 ## Query Execution
 * [Testing query execution engines with mutations](https://dl.acm.org/doi/pdf/10.1145/3395032.3395322) 
