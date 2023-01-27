@@ -4,6 +4,7 @@
 * [Massive Stochastic Testing of SQL](https://www.vldb.org/conf/1998/p618.pdf)
   * https://twitter.com/MarkCallaghanDB/status/1601313113982533633
 * [Testing Database Engines via Query Plan Guidance](http://jinshengba.me/assets/pdf/qpg_icse23.pdf)
+* [DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation](https://www.usenix.org/system/files/sec23summer_60-jiang_zu_ming-prepub.pdf)
 
 ## Query Execution
 * [Testing query execution engines with mutations](https://dl.acm.org/doi/pdf/10.1145/3395032.3395322) 
