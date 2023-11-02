@@ -7,6 +7,8 @@
 * [DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation](https://www.usenix.org/system/files/sec23summer_60-jiang_zu_ming-prepub.pdf)
 * [Testing SQL Server's Query Optimizer: Challenges, Techniques and Experiences](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=Testing+SQL+Server%E2%80%99s+Query+Optimizer%3A+Challenges%2C+Techniques+and+Experiences&btnG=)
 * [Squirrel](https://github.com/s3team/Squirrel) — a coverage-guided DBMS fuzzer.
+* [Oracle database replay](https://dl.acm.org/doi/10.1145/1376616.1376732) — Oracle replay from 2008
+
 
 ## Query Execution
 * [Testing query execution engines with mutations](https://dl.acm.org/doi/pdf/10.1145/3395032.3395322) 
