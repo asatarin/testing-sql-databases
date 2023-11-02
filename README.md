@@ -8,6 +8,7 @@
 * [Testing SQL Server's Query Optimizer: Challenges, Techniques and Experiences](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C48&q=Testing+SQL+Server%E2%80%99s+Query+Optimizer%3A+Challenges%2C+Techniques+and+Experiences&btnG=)
 * [Squirrel](https://github.com/s3team/Squirrel) — a coverage-guided DBMS fuzzer.
 * [Oracle database replay](https://dl.acm.org/doi/10.1145/1376616.1376732) — Oracle replay from 2008
+* [Scope playback: self-validation in the cloud](https://dl.acm.org/doi/10.1145/2304510.2304514) — Scope playback from Microsoft for SQL-like execution on top of MapReduce
 
 
 ## Query Execution
