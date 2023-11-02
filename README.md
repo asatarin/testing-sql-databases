@@ -58,6 +58,10 @@
 * https://github.com/hydromatic/sql-logic-test/
 
 
+## SQLite
+* https://www.sqlite.org/sqllogictest/doc/trunk/about.wiki — Sqllogictest for SQLite
+
+
 ### Other systems
 See [Single node systems](https://asatarin.github.io/testing-distributed-systems/#single-node-systems)
 
