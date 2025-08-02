@@ -1,6 +1,7 @@
 # Testing SQL Databases
 
 ## TO READ 
+* [Simple Testing Can Expose Most Critical Transaction Bugs: Understanding and Detecting Write-Specific Serializability Violations in Database Systems](https://www.vldb.org/pvldb/vol18/p2547-cui.pdf)
 * [Massive Stochastic Testing of SQL](https://www.vldb.org/conf/1998/p618.pdf)
   * https://twitter.com/MarkCallaghanDB/status/1601313113982533633
 * [Testing Database Engines via Query Plan Guidance](http://jinshengba.me/assets/pdf/qpg_icse23.pdf)
