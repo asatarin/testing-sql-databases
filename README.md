@@ -66,6 +66,10 @@
 * https://www.sqlite.org/sqllogictest/doc/trunk/about.wiki — Sqllogictest for SQLite
 
 
+## MariaDB
+* [Do they even test this?!](https://mariadb.org/do-they-even-test-this/) -- high level overview of testing at MariaDB
+
+
 ### Other systems
 See [Single node systems](https://asatarin.github.io/testing-distributed-systems/#single-node-systems)
 
