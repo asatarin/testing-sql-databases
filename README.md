@@ -22,6 +22,8 @@
 * [Deploying a Steered Query Optimizer in Production at Microsoft](https://dl.acm.org/doi/abs/10.1145/3514221.3526052)
 * [The Cascades Framework for Query Optimization at Microsoft (Nico Bruno + Cesar Galindo-Legaria)](https://youtu.be/pQe1LQJiXN0)
 
+## DDL Operations
+* [DDLumos: Understanding and Detecting Atomic DDL Bugs in DBMSs](https://youtu.be/3bQD7giOKLM) and [paper](https://www.usenix.org/conference/atc25/presentation/wu-zhiyong)
 
 ## Benchmarking
 * [Creating a Virtuous Cycle in Performance Testing at MongoDB](https://dl.acm.org/doi/10.1145/3427921.3450234)
